@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 🤔 Overview
+## Overview
 
 I am a German hobby developer and work mostly alone. 
 I currently work as an electrician, so I don't have much time to concentrate on programming.
