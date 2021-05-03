@@ -6,7 +6,7 @@ I am a German hobby developer and work mostly alone.
 I currently work as an electrician, so I don't have much time to concentrate on programming.
  
 I like to take part in small projects free of charge, but only if I don't have a given contract date.
-If someone finds a spelling mistake in my code, they are free to send a pull request and, if they wish, I will include them in the list of participants
+The easiest way to reach me is with discord! Username: Unluckymichell#2970
 
 <!--
 **Unluckymichell/Unluckymichell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
